@@ -1,0 +1,7 @@
+Mi_primer_respositorio_Angel_Arreaga
+│
+├── datos_ventas/
+│ └── ventas.csv
+│
+└── datos_clientes/
+└── clientes.csv
